@@ -15,6 +15,8 @@ Database client version: libmysql - mysqlnd 7.4.33
 PHP version: 7.4.33
 PhpMyAdmin version: 4.9.7
 
+Unfortunately there are some issues in Turkey, malicious people can send non-valid info via social media or websites.
+Statements are recorded with the IP information collection of each record. IP information works with SSL-protected websites too.
 
 
 Please if you find any bug or improvement feel to free create a pull request or contact me. 
