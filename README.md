@@ -5,6 +5,8 @@ YakınlarimiBul is a website for the after of the earthquake in Turkey. Due to s
 If you want to install this PHP script, you can provide Database Info to "InstallDatabase.php" in order to create tables.
 Then you have to set this Database Info in index.php.
 
+"InstallDatabase.php" must be deleted in the directory after the successful creation of database tables.
+
 Please be careful the database should be utf8mb4_unicode_ci in collation field.
 Tested with: 
 Server Database MYSQL
