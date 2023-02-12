@@ -1,5 +1,5 @@
 # yakinlarimibul
-YakınlarimiBul is a website for the after of the earthquake in Turkey. Due to some communication problems with calls, earthquake victims or relatives can add info for contact.
+YakınlarimiBul is a website for the after of the earthquake in Turkey. Due to some communication problems with calls, earthquake victims or relatives can add their location info, phone number or email for contact.
 
 
 If you want to install this PHP script, you can provide Database Info to "InstallDatabase.php" in order to create tables.
